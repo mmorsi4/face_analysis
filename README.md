@@ -5,7 +5,7 @@ An AI-powered face analysis system that detects **faces**, analyzes **sentiments
 ---
 
 ## 🚀 Features  
-✅ **Face Detection** – Accurate face localization
+✅ **Face Detection** – Accurate face localization  
 ✅ **Sentiment Analysis** – Identifies facial expressions and emotions  
 ✅ **Age Estimation** – Uses deep learning to predict age  
 ✅ **Skin Type Classification** – Detects dry, oily, acne, or normal skin  
