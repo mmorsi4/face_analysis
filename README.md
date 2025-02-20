@@ -1,4 +1,4 @@
-# **AI Face Analysis System** 🧑‍⚕️🎭  
+# **AI Face Analysis System**
 
 An AI-powered face analysis system that detects **faces**, analyzes **sentiments**, estimates **ages**, and classifies **skin types** while providing **dermatology insights** for personalized skincare recommendations.
 
@@ -45,5 +45,13 @@ This system is trained on datasets such as:
 
 ---
 
-## 👥 Credits  
-Special thanks to **[Your Name or Contributors]** for their efforts.
+## 👥 Authors 
+
+This project was created by:  
+
+- [Yahia-Raouf](https://github.com/Yahia-Raouf)  
+- [Mai-Fakhry](https://github.com/Mai-Fakhry)  
+- [YasminaNasser](https://github.com/YasminaNasser)
+- [mmorsi4](https://github.com/mmorsi4)  
+
+Proudly developed with 💡 and 💻!  
