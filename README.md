@@ -49,7 +49,8 @@ This system is trained on datasets such as:
 
 This project was created by:  
 
-- [Yahia-Raouf](https://github.com/Yahia-Raouf)  
+- [Yahia-Raouf](https://github.com/Yahia-Raouf)
+- Karim
 - [Mai-Fakhry](https://github.com/Mai-Fakhry)  
 - [YasminaNasser](https://github.com/YasminaNasser)
 - [mmorsi4](https://github.com/mmorsi4)
