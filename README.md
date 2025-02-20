@@ -52,6 +52,7 @@ This project was created by:
 - [Yahia-Raouf](https://github.com/Yahia-Raouf)  
 - [Mai-Fakhry](https://github.com/Mai-Fakhry)  
 - [YasminaNasser](https://github.com/YasminaNasser)
-- [mmorsi4](https://github.com/mmorsi4)  
+- [mmorsi4](https://github.com/mmorsi4)
+- [OmarSamehShaker](https://github.com/OmarSamehShaker)
 
 Proudly developed with 💡 and 💻!  
