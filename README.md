@@ -41,7 +41,7 @@ git clone https://github.com/mmorsi4/face-analysis.git
 This system is trained on datasets such as:
 - [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013) (for sentiment analysis)
 - [UTKFace](https://susanqq.github.io/UTKFace/) (for age estimation)
-- [Face Skin Type]([https://github.com/joojs/fairface](https://www.kaggle.com/datasets/muttaqin1113/face-skin-type)) (for skin classification)
+- [Face Skin Type](https://www.kaggle.com/datasets/muttaqin1113/face-skin-type) (for skin classification)
 
 ---
 
