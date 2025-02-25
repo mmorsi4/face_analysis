@@ -2,6 +2,8 @@
 
 An AI-powered face analysis system that detects **faces**, analyzes **sentiments**, estimates **ages**, and classifies **skin types** while providing **dermatology insights** for personalized skincare recommendations.
 
+![Description](https://i.imgur.com/fB0YWPV.png)
+
 ---
 
 ## 🚀 Features  
